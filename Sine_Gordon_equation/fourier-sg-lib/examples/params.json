@@ -1,0 +1,18 @@
+{
+    "spaceGrid":{
+        "nx":4096,
+        "lx": 100
+    },
+    "timeGrid":{
+        "dt": 0.01,
+        "t": 80,
+        "saveEvery":20
+    },
+    "solitonParams":{
+        "speedVec":[0.5,0.5,0.5],
+        "omegaVec":[0.2,0.5,0.8],
+        "t0":"NaN",
+        "x0":20
+    },
+    "method":"strangSplitStep"
+}
