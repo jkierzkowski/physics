@@ -23,4 +23,4 @@ This repository contains numerical tools and simulation results for a variety of
 ## Documentation
 
 Detailed descriptions of the simulations are provided in PDF files located in each project directory.
-The Ginzburg–Landau project is an exception — all explanations are included in the Jupyter notebook.
+The Quantum Ideal Gas project is an exception — all explanations are included in the Jupyter notebook.
