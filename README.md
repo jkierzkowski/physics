@@ -1,8 +1,8 @@
-## Physical Simulations
+# Physical Simulations
 
 This repository contains numerical tools and simulation results for a variety of physical systems.
 
-# Contents
+## Contents
 
 * Differential equation solvers
 
@@ -20,7 +20,7 @@ This repository contains numerical tools and simulation results for a variety of
 
   *  Nanostructure CrSiTe3 band-structers calculations on the Ares supercomputer https://docs.hpc.cyfronet.pl/supercomputers/ares/
 
-# Documentation
+## Documentation
 
 Detailed descriptions of the simulations are provided in PDF files located in each project directory.
 The Ginzburg–Landau project is an exception — all explanations are included in the Jupyter notebook.
